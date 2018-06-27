@@ -5,4 +5,4 @@ APCS Final Project - Java Platformer
 
 Meet Dave, an adventurous man who finds himself trapped inside a dungeon full of life-threatening acid water. Dave must find the key to each door and make his way through the dungeon, without accidentally touching the acid water. Can Dave conquer this formidable task, or will he crumble under the pressure? 
 
-![alt text](Desktop/tester.png "Description goes here")
+![alt text](Platformer/images/level3.png "Level 3")
